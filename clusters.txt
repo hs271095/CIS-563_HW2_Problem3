@@ -1,0 +1,50 @@
+Cluster 0:  product
+ flavor
+ amazon
+ time
+ buy
+Cluster 1:  dog
+ treats
+ dogs
+ loves
+ treat
+Cluster 2:  coffee
+ cup
+ flavor
+ good
+ taste
+Cluster 3:  best
+ flavor
+ good
+ great
+ amazon
+Cluster 4:  great
+ product
+ price
+ flavor
+ taste
+Cluster 5:  good
+ flavor
+ taste
+ product
+ great
+Cluster 6:  taste
+ flavor
+ good
+ product
+ great
+Cluster 7:  love
+ great
+ good
+ flavor
+ product
+Cluster 8:  tea
+ flavor
+ good
+ taste
+ green
+Cluster 9:  food
+ cat
+ cats
+ dog
+ eat
