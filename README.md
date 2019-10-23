@@ -9,8 +9,8 @@ A solution to problem 3 of HW2
 
 ### Steps to follow
 - clone the repository
+- unzip the dataset file from http://snap.stanford.edu/data/web-FineFoods.html in the folder created
 - Open terminal and run the jupyter notebook command
 - select the the folder containing the repository files
-- unzip the dataset file from http://snap.stanford.edu/data/web-FineFoods.html
 - select the .ipynb file
 - press shift+enter to run segments of code
