@@ -1,3 +1,4 @@
+Top terms per cluster:
 Cluster 0:  product
  flavor
  amazon
