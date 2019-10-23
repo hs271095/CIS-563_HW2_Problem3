@@ -7,3 +7,9 @@ A solution to problem 3 of HW2
 - Pandas lib.
 - sklearn
 
+### Steps to follow
+- clone the repository
+- Open terminal and run the jupyter notebook command
+- select the the folder containing the repository files
+- select the .ipynb file
+- press shift+enter to run segments of code
