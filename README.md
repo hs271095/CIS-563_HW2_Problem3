@@ -11,5 +11,6 @@ A solution to problem 3 of HW2
 - clone the repository
 - Open terminal and run the jupyter notebook command
 - select the the folder containing the repository files
+- unzip the dataset file from http://snap.stanford.edu/data/web-FineFoods.html
 - select the .ipynb file
 - press shift+enter to run segments of code
